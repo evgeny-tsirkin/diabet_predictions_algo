@@ -1,0 +1,16 @@
+# AWD-Stacking Blood Glucose Prediction
+# Requirements
+
+# Core dependencies
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.1.0
+
+# Deep Learning
+tensorflow>=2.11.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Optional: for OhioT1DM XML parsing
+# lxml>=4.9.0
